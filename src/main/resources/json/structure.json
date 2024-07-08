@@ -1,0 +1,8 @@
+[
+  {
+    "table": "TestTotalCOA",
+    "column" : "groupName",
+    "value" : "Finance",
+    "valueColumn": "TestTransaction.groupName"
+  }
+]
